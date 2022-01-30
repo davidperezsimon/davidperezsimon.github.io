@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    height: 100vh;
+
+}
+#navbar-main{
+    background-color: #000;
+}
+#navbar-toggle{
+    border: 0; 
+    margin-left: auto;
+}
+#navbar-menu{
+    margin: 0 auto 0 auto;
+}
